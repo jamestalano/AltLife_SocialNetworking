@@ -2,8 +2,8 @@
 //  AltLifeProjectTests.m
 //  AltLifeProjectTests
 //
-//  Created by BradReed on 10/19/17.
-//  Copyright © 2017 BradReed. All rights reserved.
+//  Created by James Talano on 10/19/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

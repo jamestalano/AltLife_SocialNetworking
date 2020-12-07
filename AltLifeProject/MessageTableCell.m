@@ -2,8 +2,8 @@
 //  MessageTableCell.m
 //  AltLifeProject
 //
-//  Created by Mobile Star on 11/8/17.
-//  Copyright © 2017 BradReed. All rights reserved.
+//  Created by James Talano on 11/8/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 #import "MessageTableCell.h"

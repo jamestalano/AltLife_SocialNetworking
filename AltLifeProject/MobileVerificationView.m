@@ -2,7 +2,7 @@
 //  MobileVerificationView.m
 //  
 //
-//  Created by BradReed on 10/17/17.
+//  Created by James Talano on 10/17/17.
 //
 //
 

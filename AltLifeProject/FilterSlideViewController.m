@@ -2,8 +2,8 @@
 //  FilterSlideViewController.m
 //  AltLifeProject
 //
-//  Created by Mobile Star on 10/31/17.
-//  Copyright © 2017 BradReed. All rights reserved.
+//  Created by James Talano on 10/31/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 #import "FilterSlideViewController.h"
